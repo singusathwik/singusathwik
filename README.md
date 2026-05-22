@@ -12,85 +12,12 @@ My work is focused on practical systems: AI-powered monitoring, image processing
 
 
 What I Build
-<table> <tr> <td width="33%">
-AI Systems
-Computer vision, prediction workflows, automation logic, model-backed applications.
-
-</td> <td width="33%">
-Cloud Backends
-AWS architecture, serverless concepts, APIs, scalable backend workflows.
-
-</td> <td width="33%">
-Full Stack Apps
-React interfaces, Flask/Node backends, dashboards, databases, real-world product flows.
-
-</td> </tr> </table>
+<table> <tr> <td width="33%" align="center" valign="top"> <h3>AI Systems</h3> <p> Computer vision, prediction workflows, automation logic, and model-backed applications. </p> <img src="https://img.shields.io/badge/OpenCV-020617?style=flat-square&logo=opencv&logoColor=5C3EE8" /> <img src="https://img.shields.io/badge/ML-020617?style=flat-square&logo=openai&logoColor=22D3EE" /> </td> <td width="33%" align="center" valign="top"> <h3>Cloud Backends</h3> <p> AWS architecture, serverless concepts, REST APIs, and scalable backend workflows. </p> <img src="https://img.shields.io/badge/AWS-020617?style=flat-square&logo=amazonaws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/APIs-020617?style=flat-square&logo=fastapi&logoColor=22D3EE" /> </td> <td width="33%" align="center" valign="top"> <h3>Full Stack Apps</h3> <p> React interfaces, Flask/Node backends, dashboards, databases, and product flows. </p> <img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=5FA04E" /> </td> </tr> </table>
 Tech I Use
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,react,nodejs,express,flask&theme=dark" /> <br /> <img src="https://skillicons.dev/icons?i=tensorflow,opencv,aws,mongodb,mysql,firebase,html,css,tailwind&theme=dark" /> <br /> <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,bootstrap&theme=dark" /> </div>
-Languages       Python | Java | JavaScript | C | C++ | SQL
-Frontend        React | HTML | CSS | Tailwind | Bootstrap
-Backend         Node.js | Express.js | Flask | REST APIs
-AI / ML         OpenCV | TensorFlow | Machine Learning
-Cloud           AWS | Serverless Concepts | Cloud Architecture
-Databases       MongoDB | MySQL | Firebase
-Tools           Git | GitHub | Linux | Postman | VS Code
+<table align="center"> <tr> <td align="center" width="160"><b>Languages</b></td> <td> <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=F97316" /> <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=A8B9CC" /> <img src="https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=00599C" /> <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=38BDF8" /> </td> </tr> <tr> <td align="center"><b>Frontend</b></td> <td> <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" /> <img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=7952B3" /> </td> </tr> <tr> <td align="center"><b>Backend</b></td> <td> <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E" /> <img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square&logo=fastapi&logoColor=22D3EE" /> </td> </tr> <tr> <td align="center"><b>AI / ML</b></td> <td> <img src="https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=5C3EE8" /> <img src="https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00" /> <img src="https://img.shields.io/badge/Machine_Learning-111827?style=flat-square&logo=openai&logoColor=22D3EE" /> <img src="https://img.shields.io/badge/Computer_Vision-111827?style=flat-square&logo=googlegemini&logoColor=8B5CF6" /> </td> </tr> <tr> <td align="center"><b>Cloud & Data</b></td> <td> <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/Serverless-111827?style=flat-square&logo=serverless&logoColor=FD5750" /> <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" /> <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFCA28" /> </td> </tr> <tr> <td align="center"><b>Tools</b></td> <td> <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" /> <img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37" /> <img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC" /> </td> </tr> </table>
 Featured Projects
-<table> <tr> <td width="50%">
-Anti-Cheating System
-AI-powered exam monitoring using webcam-based computer vision.
-
-Python OpenCV Machine Learning
-
-Highlights:
-
-Real-time visual monitoring
-Suspicious activity detection logic
-Practical computer vision pipeline
-</td> <td width="50%">
-Smart Home Automation
-Voice-controlled automation dashboard using speech recognition.
-
-Python Flask JavaScript Web Speech API
-
-Highlights:
-
-Voice command interface
-Smart automation workflows
-Interactive web dashboard
-</td> </tr> <tr> <td width="50%">
-Smart Grievance Management
-AI-powered citizen complaint platform designed around AWS cloud concepts.
-
-AWS Serverless JavaScript
-
-Highlights:
-
-Cloud-native architecture
-Complaint tracking workflow
-Scalable backend thinking
-</td> <td width="50%">
-JPEG Compression & Decompression
-Digital image processing project implementing compression and reconstruction.
-
-Python DIP
-
-Highlights:
-
-Image compression workflow
-Reconstruction pipeline
-Core JPEG concept implementation
-</td> </tr> <tr> <td colspan="2">
-Credit Card Risk Prediction
-Machine learning workflow for predicting financial risk patterns.
-
-Python Machine Learning Data Analysis
-
-Highlights:
-
-Data preprocessing
-Visualization and feature analysis
-Predictive modeling workflow
-</td> </tr> </table>
+<table> <tr> <td width="50%" valign="top"> <h3 align="center">AI Anti-Cheating System</h3> <p align="center"> <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/OpenCV-020617?style=for-the-badge&logo=opencv&logoColor=5C3EE8" /> <img src="https://img.shields.io/badge/ML-020617?style=for-the-badge&logo=openai&logoColor=22D3EE" /> </p> <p align="center"><b>Real-time exam monitoring with computer vision.</b></p> <p> Detects suspicious activity patterns through webcam-based monitoring and practical vision logic. </p> <ul> <li>Live visual monitoring pipeline</li> <li>Detection-based activity rules</li> <li>Computer vision focused implementation</li> </ul> </td> <td width="50%" valign="top"> <h3 align="center">Smart Home Automation</h3> <p align="center"> <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Flask-020617?style=for-the-badge&logo=flask&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Voice_API-020617?style=for-the-badge&logo=googleassistant&logoColor=22D3EE" /> </p> <p align="center"><b>Voice-controlled dashboard for smart actions.</b></p> <p> A speech-powered automation interface that connects commands, controls, and dashboard feedback. </p> <ul> <li>Voice command interaction</li> <li>Automation workflow handling</li> <li>Interactive Flask-based dashboard</li> </ul> </td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">Smart Grievance Management</h3> <p align="center"> <img src="https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/Serverless-020617?style=for-the-badge&logo=serverless&logoColor=FD5750" /> <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> </p> <p align="center"><b>Cloud-ready platform for citizen complaints.</b></p> <p> A complaint management workflow designed around scalable backend and AWS deployment concepts. </p> <ul> <li>Cloud-native system planning</li> <li>Complaint tracking flow</li> <li>Scalable backend architecture</li> </ul> </td> <td width="50%" valign="top"> <h3 align="center">JPEG Compression & Decompression</h3> <p align="center"> <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Image_Processing-020617?style=for-the-badge&logo=opencv&logoColor=5C3EE8" /> </p> <p align="center"><b>Digital image processing from compression to reconstruction.</b></p> <p> A practical implementation of image compression concepts and JPEG-style processing flow. </p> <ul> <li>Compression and reconstruction</li> <li>Encoding workflow exploration</li> <li>DIP concept implementation</li> </ul> </td> </tr> </table> <table> <tr> <td valign="top"> <h3 align="center">Credit Card Risk Prediction</h3> <p align="center"> <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Machine_Learning-020617?style=for-the-badge&logo=openai&logoColor=22D3EE" /> <img src="https://img.shields.io/badge/Data_Analysis-020617?style=for-the-badge&logo=pandas&logoColor=FFFFFF" /> </p> <p align="center"><b>Predictive analytics workflow for financial risk signals.</b></p> <p align="center"> Built around preprocessing, pattern discovery, visualization, and model-driven prediction. </p> <p align="center"> <img src="https://img.shields.io/badge/Data_Preprocessing-0f766e?style=flat-square" /> <img src="https://img.shields.io/badge/Feature_Analysis-1d4ed8?style=flat-square" /> <img src="https://img.shields.io/badge/Predictive_Modeling-7c3aed?style=flat-square" /> </p> </td> </tr> </table>
 Certifications
 <table> <tr> <td><b>AWS Certified Cloud Practitioner</b></td> <td>Amazon Web Services</td> </tr> <tr> <td><b>Oracle Certified Professional: Java SE 17 Developer</b></td> <td>Oracle Corporation</td> </tr> <tr> <td><b>Full Stack Web Development Internship</b></td> <td>Edunet Foundation</td> </tr> </table>
 GitHub Signal
