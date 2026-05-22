@@ -1,105 +1,234 @@
-<div align="center">
+<!-- 🔥 AI + FULL STACK ELITE README — SATHWIK SINGU -->
 
-# SATHWIK SINGU
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=240&section=header&text=SATHWIK%20SINGU&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Creative%20Builder&descAlignY=55&descAlign=50&descColor=38bdf8"/>
+</p>
 
-### Full Stack Developer • AI/ML Enthusiast • Backend Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%2B+Machine+Learning+Enthusiast;Building+Real+World+Projects;Backend+%2B+System+Design+Focused;Always+Learning+New+Technologies" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Real+World+Projects;AI+%2B+Full+Stack+Developer;Always+Learning+New+Technologies" />
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE-2563eb?style=for-the-badge&logo=academia&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI_+_Full_Stack-1e293b?style=for-the-badge&logo=codeforces&logoColor=38bdf8"/>
+</p>
 
-</div>
+<p align="center">
+  <em>⚡ Creating projects that combine intelligence, design, and performance</em>
+</p>
 
 ---
 
 # 🧠 ABOUT
 
 ```txt
-┌──────────────────────────────────────────────┐
-│ DEVELOPER PROFILE — SATHWIK SINGU           │
-├──────────────────────────────────────────────┤
-│ Role   : Full Stack Developer               │
-│ Stack  : React · Node · Python · AI         │
-│ Focus  : Backend · APIs · ML Systems        │
-│ Target : High Impact Engineering Roles      │
-│ Motto  : Build projects that solve problems │
-└──────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║  DEVELOPER PROFILE — SATHWIK SINGU                          ║
+╠══════════════════════════════════════════════════════════════╣
+║  Role     : Full Stack Developer + AI Enthusiast            ║
+║  Stack    : React · Python · Node · ML                      ║
+║  Focus    : AI Systems · Backend · Web Applications         ║
+║  Interest : Computer Vision · Automation · System Design    ║
+║  Motto    : Learn deeply. Build creatively. Improve daily.  ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-- 💻 Building Full Stack Applications
-- 🧠 Exploring Artificial Intelligence & ML
-- ⚡ Strong interest in Backend Systems
-- 🌐 Working on Real-world Projects
-- 🚀 Learning Cloud & DevOps
+- 💻 Building real-world projects using AI and Full Stack technologies
+- 🤖 Interested in Machine Learning, Computer Vision & Automation
+- 🌐 Developing responsive and scalable web applications
+- ⚙️ Strong interest in backend systems and APIs
+- 🎨 Blending creativity with software engineering
+- 🚀 Continuously learning and improving through projects
 
 ---
 
 # ⚙️ TECH STACK
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,react,nodejs,mongodb,mysql&theme=dark&perline=9"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,opencv,tensorflow,git,github,vscode&theme=dark&perline=9"/>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,postman,firebase,flask&theme=dark&perline=6"/>
+</p>
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,react,nodejs,mongodb,mysql,html,css,bootstrap,git,github,vscode"/>
+| Layer | Technologies |
+|-------|-------------|
+| **Languages** | C · C++ · Python · Java · JavaScript · SQL |
+| **Frontend** | React.js · HTML5 · CSS3 · Bootstrap · TailwindCSS |
+| **Backend** | Node.js · Flask · Express.js · REST APIs |
+| **Database** | MongoDB · MySQL · Firebase |
+| **AI / ML** | OpenCV · TensorFlow · Machine Learning |
+| **Tools** | Git · GitHub · VS Code · Postman · Linux |
 
 </div>
 
 ---
 
-# 📌 FEATURED PROJECTS
+# 🚀 FEATURED PROJECTS
 
-| Project | Description |
-|---|---|
-| 🔹 Anti Cheating System | AI-powered monitoring system |
-| 🔹 JPEG Compression | DIP-based image compression project |
-| 🔹 Credit Card Risk Prediction | ML risk prediction system |
-| 🔹 AQI Prediction | Real-time air quality monitoring |
+## 🔵 Anti-Cheating System
+> AI-powered monitoring system for detecting suspicious exam activities
 
----
+`Python` `OpenCV` `Machine Learning`
 
-# 🏆 CERTIFICATIONS
-
-| Certification | Platform |
-|---|---|
-| AWS Cloud Practitioner | AWS |
-| Java SE Certification | Oracle |
-| Data Analytics Simulation | Deloitte |
-| Cybersecurity Simulation | Tata |
+- Real-time webcam monitoring
+- Detection-based anti-cheating logic
+- Computer vision integration
 
 ---
 
-# 📊 GITHUB STATS
+## 🔵 JPEG Compression & Decompression
+> Digital Image Processing project implementing image compression techniques
 
-<div align="center">
+`Python` `DIP`
 
-![](https://github-readme-stats.vercel.app/api?username=singusathwik&show_icons=true&theme=tokyonight&border_radius=10)
+- Compression and reconstruction of images
+- Understanding JPEG workflow and encoding
+- Practical implementation of image processing concepts
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=singusathwik&theme=tokyonight&border_radius=10)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=singusathwik&layout=compact&theme=tokyonight&border_radius=10)
+## 🔵 Credit Card Risk Prediction
+> Machine learning model for predicting financial risk patterns
 
-</div>
+`Python` `ML`
+
+- Risk prediction using ML algorithms
+- Data preprocessing and visualization
+- Predictive analytics workflow
+
+---
+
+## 🔵 Online Indian AQI System
+> Real-time Air Quality Index tracking web application
+
+`JavaScript` `HTML` `CSS`
+
+- AQI visualization dashboard
+- Dynamic environmental data display
+- Interactive frontend design
+
+---
+
+## 🔵 Anime Society Website
+> Modern responsive website for anime club activities and events
+
+`HTML` `CSS` `JavaScript`
+
+- Dark themed responsive UI
+- Event announcements and gallery
+- Interactive sections and recommendations
+
+---
+
+# 🏆 ACHIEVEMENTS & CERTIFICATIONS
+
+```txt
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+  SKILL LICENSES & LEARNING MILESTONES
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+| Badge | Achievement |
+|-------|-------------|
+| 🔷 | AI & Machine Learning Projects |
+| 🔷 | Full Stack Web Development |
+| 🔷 | Digital Image Processing Projects |
+| 🔷 | Backend API Development |
+| 🔷 | Database & System Design |
+| 🔷 | Responsive UI/UX Development |
+
+---
+
+# 📊 GITHUB PERFORMANCE
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=singusathwik&show_icons=true&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&icon_color=38bdf8&bg_color=0f172a&hide_border=false&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singusathwik&theme=tokyonight&border=38bdf8&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singusathwik&layout=compact&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&bg_color=0f172a&langs_count=8"/>
+</p>
 
 ---
 
 # 📈 CONTRIBUTION GRAPH
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=singusathwik&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singusathwik&theme=tokyo-night&bg_color=0f172a&color=38bdf8&line=38bdf8&point=ffffff&hide_border=false"/>
+</p>
+
+---
+
+# 🧩 CURRENT INTERESTS
+
+```txt
+╔═══════════════════════════════════════════════════════════╗
+║  CURRENT ENGINEERING INTERESTS                           ║
+╠═══════════════════════════════════════════════════════════╣
+║  • Artificial Intelligence & Automation                  ║
+║  • Full Stack Development                                ║
+║  • Computer Vision Systems                               ║
+║  • Backend & API Design                                  ║
+║  • Scalable Web Applications                             ║
+║  • UI/UX Focused Frontend Development                    ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+> “Technology becomes meaningful when it solves real problems creatively.”
 
 ---
 
 # 🌐 CONNECT
 
-<div align="center">
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-Sathwik_Singu-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  
+  <a href="https://github.com/singusathwik">
+    <img src="https://img.shields.io/badge/GitHub-singusathwik-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sathwik-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
-
-[![GitHub](https://img.shields.io/badge/GitHub-singusathwik-black?style=for-the-badge&logo=github)](https://github.com/singusathwik)
-
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
-
-</div>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+# ⚡ FINAL MESSAGE
 
-### ⚡ "Code • Build • Learn • Repeat"
+```txt
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   AI + FULL STACK DEVELOPER                                      ║
+║                                                                  ║
+║   Building projects through creativity, logic, and curiosity     ║
+║                                                                  ║
+║   Learning never stops. Every project is a new level.            ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <em>✨ Crafted with passion, creativity, and continuous learning ✨</em>
+</p>
