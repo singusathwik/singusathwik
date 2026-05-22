@@ -1,47 +1,211 @@
-<!-- SATHWIK SINGU | GitHub Profile README --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,45:0f766e,100:22d3ee&text=SATHWIK%20SINGU&fontSize=52&fontColor=f8fafc&animation=twinkling&stroke=22d3ee&strokeWidth=1&desc=AI%20Developer%20%7C%20Cloud%20Engineer%20%7C%20Full%20Stack%20Builder&descSize=17&descAlignY=68" alt="Sathwik Singu" /> <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2400&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=I+build+AI-powered+systems+that+solve+real+problems.;Cloud.+Code.+Computer+Vision.+Automation.;From+idea+to+working+product,+one+build+at+a+time." alt="Typing SVG" />
-<img src="https://img.shields.io/badge/AI%20%2B%20ML-020617?style=for-the-badge&logo=openai&logoColor=22d3ee" /> <img src="https://img.shields.io/badge/AWS%20Cloud-020617?style=for-the-badge&logo=amazonaws&logoColor=f59e0b" /> <img src="https://img.shields.io/badge/Full%20Stack-020617?style=for-the-badge&logo=react&logoColor=61dafb" /> <img src="https://img.shields.io/badge/India-020617?style=for-the-badge&logo=googlemaps&logoColor=22d3ee" /> </div>
-SYSTEM BOOT
-> identity loaded: Sathwik Singu
-> mode: builder
-> focus: AI systems, cloud engineering, computer vision, automation
-> objective: turn practical ideas into reliable software
-The Short Version
-I am a B.Tech CSE student building at the intersection of Artificial Intelligence, Cloud Engineering, and Full Stack Development.
+<!-- ⚡ NEURAL AI README — SATHWIK SINGU -->
 
-My work is focused on practical systems: AI-powered monitoring, image processing, voice automation, cloud-native complaint platforms, and ML risk prediction. I like projects where models, APIs, UI, and infrastructure come together into something people can actually use.
+<p align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&height=80&lines=SATHWIK+SINGU;AI+%2B+ML+DEVELOPER;CLOUD+ENGINEER;BUILDING+INTELLIGENT+SYSTEMS" />
 
-What I Build
-<table> <tr> <td width="33%" align="center" valign="top"> <h3>AI Systems</h3> <p> Computer vision, prediction workflows, automation logic, and model-backed applications. </p> <img src="https://img.shields.io/badge/OpenCV-020617?style=flat-square&logo=opencv&logoColor=5C3EE8" /> <img src="https://img.shields.io/badge/ML-020617?style=flat-square&logo=openai&logoColor=22D3EE" /> </td> <td width="33%" align="center" valign="top"> <h3>Cloud Backends</h3> <p> AWS architecture, serverless concepts, REST APIs, and scalable backend workflows. </p> <img src="https://img.shields.io/badge/AWS-020617?style=flat-square&logo=amazonaws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/APIs-020617?style=flat-square&logo=fastapi&logoColor=22D3EE" /> </td> <td width="33%" align="center" valign="top"> <h3>Full Stack Apps</h3> <p> React interfaces, Flask/Node backends, dashboards, databases, and product flows. </p> <img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=5FA04E" /> </td> </tr> </table>
-Tech I Use
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,react,nodejs,express,flask&theme=dark" /> <br /> <img src="https://skillicons.dev/icons?i=tensorflow,opencv,aws,mongodb,mysql,firebase,html,css,tailwind&theme=dark" /> <br /> <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,bootstrap&theme=dark" /> </div>
-<table align="center"> <tr> <td align="center" width="160"><b>Languages</b></td> <td> <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=F97316" /> <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C-111827?style=flat-square&logo=c&logoColor=A8B9CC" /> <img src="https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=00599C" /> <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=38BDF8" /> </td> </tr> <tr> <td align="center"><b>Frontend</b></td> <td> <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26" /> <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6" /> <img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=7952B3" /> </td> </tr> <tr> <td align="center"><b>Backend</b></td> <td> <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E" /> <img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/REST_APIs-111827?style=flat-square&logo=fastapi&logoColor=22D3EE" /> </td> </tr> <tr> <td align="center"><b>AI / ML</b></td> <td> <img src="https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=5C3EE8" /> <img src="https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00" /> <img src="https://img.shields.io/badge/Machine_Learning-111827?style=flat-square&logo=openai&logoColor=22D3EE" /> <img src="https://img.shields.io/badge/Computer_Vision-111827?style=flat-square&logo=googlegemini&logoColor=8B5CF6" /> </td> </tr> <tr> <td align="center"><b>Cloud & Data</b></td> <td> <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/Serverless-111827?style=flat-square&logo=serverless&logoColor=FD5750" /> <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248" /> <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1" /> <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFCA28" /> </td> </tr> <tr> <td align="center"><b>Tools</b></td> <td> <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" /> <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" /> <img src="https://img.shields.io/badge/Postman-111827?style=flat-square&logo=postman&logoColor=FF6C37" /> <img src="https://img.shields.io/badge/VS_Code-111827?style=flat-square&logo=visualstudiocode&logoColor=007ACC" /> </td> </tr> </table>
-Featured Projects
-<table> <tr> <td width="50%" valign="top"> <h3 align="center">AI Anti-Cheating System</h3> <p align="center"> <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/OpenCV-020617?style=for-the-badge&logo=opencv&logoColor=5C3EE8" /> <img src="https://img.shields.io/badge/ML-020617?style=for-the-badge&logo=openai&logoColor=22D3EE" /> </p> <p align="center"><b>Real-time exam monitoring with computer vision.</b></p> <p> Detects suspicious activity patterns through webcam-based monitoring and practical vision logic. </p> <ul> <li>Live visual monitoring pipeline</li> <li>Detection-based activity rules</li> <li>Computer vision focused implementation</li> </ul> </td> <td width="50%" valign="top"> <h3 align="center">Smart Home Automation</h3> <p align="center"> <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Flask-020617?style=for-the-badge&logo=flask&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Voice_API-020617?style=for-the-badge&logo=googleassistant&logoColor=22D3EE" /> </p> <p align="center"><b>Voice-controlled dashboard for smart actions.</b></p> <p> A speech-powered automation interface that connects commands, controls, and dashboard feedback. </p> <ul> <li>Voice command interaction</li> <li>Automation workflow handling</li> <li>Interactive Flask-based dashboard</li> </ul> </td> </tr> <tr> <td width="50%" valign="top"> <h3 align="center">Smart Grievance Management</h3> <p align="center"> <img src="https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonaws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/Serverless-020617?style=for-the-badge&logo=serverless&logoColor=FD5750" /> <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> </p> <p align="center"><b>Cloud-ready platform for citizen complaints.</b></p> <p> A complaint management workflow designed around scalable backend and AWS deployment concepts. </p> <ul> <li>Cloud-native system planning</li> <li>Complaint tracking flow</li> <li>Scalable backend architecture</li> </ul> </td> <td width="50%" valign="top"> <h3 align="center">JPEG Compression & Decompression</h3> <p align="center"> <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Image_Processing-020617?style=for-the-badge&logo=opencv&logoColor=5C3EE8" /> </p> <p align="center"><b>Digital image processing from compression to reconstruction.</b></p> <p> A practical implementation of image compression concepts and JPEG-style processing flow. </p> <ul> <li>Compression and reconstruction</li> <li>Encoding workflow exploration</li> <li>DIP concept implementation</li> </ul> </td> </tr> </table> <table> <tr> <td valign="top"> <h3 align="center">Credit Card Risk Prediction</h3> <p align="center"> <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Machine_Learning-020617?style=for-the-badge&logo=openai&logoColor=22D3EE" /> <img src="https://img.shields.io/badge/Data_Analysis-020617?style=for-the-badge&logo=pandas&logoColor=FFFFFF" /> </p> <p align="center"><b>Predictive analytics workflow for financial risk signals.</b></p> <p align="center"> Built around preprocessing, pattern discovery, visualization, and model-driven prediction. </p> <p align="center"> <img src="https://img.shields.io/badge/Data_Preprocessing-0f766e?style=flat-square" /> <img src="https://img.shields.io/badge/Feature_Analysis-1d4ed8?style=flat-square" /> <img src="https://img.shields.io/badge/Predictive_Modeling-7c3aed?style=flat-square" /> </p> </td> </tr> </table>
-Certifications
-<table> <tr> <td><b>AWS Certified Cloud Practitioner</b></td> <td>Amazon Web Services</td> </tr> <tr> <td><b>Oracle Certified Professional: Java SE 17 Developer</b></td> <td>Oracle Corporation</td> </tr> <tr> <td><b>Full Stack Web Development Internship</b></td> <td>Edunet Foundation</td> </tr> </table>
-GitHub Signal
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=singusathwik&show_icons=true&theme=github_dark&hide_border=true&title_color=22d3ee&icon_color=22d3ee&bg_color=020617" /> <img height="165" src="https://streak-stats.demolab.com?user=singusathwik&theme=dark&hide_border=true&background=020617&ring=22D3EE&fire=F59E0B&currStreakLabel=22D3EE" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singusathwik&layout=compact&theme=github_dark&hide_border=true&title_color=22d3ee&bg_color=020617" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singusathwik&bg_color=020617&color=22d3ee&line=14b8a6&point=f8fafc&area=true&area_color=0f766e&hide_border=true" /> </div>
-Current Direction
+</p>
 
+---
 
-Programming Foundations
-Full Stack Apps
-Backend APIs
-AWS Cloud
-AI + ML Systems
-Computer Vision
-Real-World IntelligentProducts
-Now exploring:
-01. AI and ML systems
-02. AWS cloud and serverless architecture
-03. Computer vision applications
-04. Backend APIs and system design
-05. Automation and smart systems
-Connect
-<div align="center"> <a href="YOUR_LINKEDIN_LINK"> <img src="https://img.shields.io/badge/LinkedIn-Sathwik%20Singu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/singusathwik"> <img src="https://img.shields.io/badge/GitHub-singusathwik-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="mailto:YOUR_EMAIL@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-ef4444?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
 <div align="center">
-BUILDING WITH CODE. THINKING WITH AI. SCALING WITH CLOUD.
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:22d3ee,50:0f766e,100:020617" /> </div>
+
+```txt
+┌──────────────────────────────────────────────────────────────┐
+│  AI • MACHINE LEARNING • CLOUD • FULL STACK                 │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=8b5cf6"/>
+
+<img src="https://img.shields.io/badge/B.Tech_CSE-1e293b?style=for-the-badge&logo=academia&logoColor=06b6d4"/>
+
+<img src="https://img.shields.io/badge/Building_Intelligent_Systems-111827?style=for-the-badge&logo=openai&logoColor=38bdf8"/>
+
+</p>
+
+---
+
+# ⚡ SYSTEM STATUS
+
+<div align="center">
+
+```txt
+> Initializing Developer Profile...
+
+[██████████████████████████████] 100%
+
+STATUS  : ONLINE
+MODE    : BUILDING
+FOCUS   : AI + CLOUD + BACKEND
+STATE   : CONTINUOUS LEARNING
+```
+
+</div>
+
+---
+
+# 🧠 ABOUT ME
+
+<div align="center">
+
+```txt
+╔══════════════════════════════════════════════════════════╗
+║  PROFILE.exe                                            ║
+╠══════════════════════════════════════════════════════════╣
+║  Name      : Sathwik Singu                              ║
+║  Role      : AI & ML Developer + Cloud Engineer         ║
+║  Focus     : Intelligent Systems & Automation           ║
+║  Stack     : Python · AWS · React · ML                 ║
+║  Passion   : Solving real-world problems using AI       ║
+║  Motto     : Think. Build. Improve. Repeat.             ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+- 🤖 AI & ML enthusiast building intelligent applications
+- ☁️ Exploring AWS cloud and scalable backend systems
+- 💻 Full stack developer with strong backend interest
+- 🧠 Interested in Computer Vision and Automation
+- 🚀 Always learning through real-world projects
+
+---
+
+# 🛰️ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,react,nodejs,mongodb,mysql&theme=dark"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,flask,tensorflow,opencv,aws,firebase&theme=dark"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark"/>
+
+</div>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 Anti-Cheating System | AI-based suspicious activity detection system | Python · OpenCV · ML |
+| 🖼️ JPEG Compression | Digital Image Processing compression implementation | Python · DIP |
+| 🎙️ Smart Home Automation | Voice-controlled automation dashboard | Flask · JS · Speech API |
+| ☁️ Smart Grievance System | AWS serverless citizen complaint platform | AWS · Serverless |
+| 💳 Credit Card Risk Prediction | ML-based financial risk prediction | Python · ML |
+
+</div>
+
+---
+
+# 🏆 CERTIFICATIONS
+
+<div align="center">
+
+| Certification | Issuer |
+|---|---|
+| ☁️ AWS Certified Cloud Practitioner | Amazon Web Services |
+| ☕ Oracle Certified Java SE 17 Developer | Oracle |
+| 🌐 Full Stack Web Development Internship | Edunet Foundation |
+
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=singusathwik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8b5cf6&icon_color=06b6d4"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=singusathwik&theme=tokyonight&hide_border=true&background=0D1117&ring=8b5cf6&fire=06b6d4&currStreakLabel=8b5cf6"/>
+
+</p>
+
+<p align="center">
+
+<img width="500" src="https://github-readme-activity-graph.vercel.app/graph?username=singusathwik&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8b5cf6&line=06b6d4&point=ffffff"/>
+
+</p>
+
+---
+
+# 🌌 CURRENT FOCUS
+
+<div align="center">
+
+```txt
+╔══════════════════════════════════════════════════════╗
+║  CURRENT MISSION                                     ║
+╠══════════════════════════════════════════════════════╣
+║  → Artificial Intelligence                           ║
+║  → Machine Learning                                  ║
+║  → Cloud Engineering                                 ║
+║  → Computer Vision                                   ║
+║  → Backend APIs                                      ║
+║  → Automation Systems                                ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=8b5cf6"/>
+</a>
+
+<a href="https://github.com/singusathwik">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=06b6d4"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=8b5cf6"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ FINAL MESSAGE
+
+<div align="center">
+
+```txt
+> SYSTEM MESSAGE
+
+AI is not just the future.
+It's a tool to create meaningful solutions.
+
+Learning every day.
+Building every day.
+Improving every day.
+
+— Sathwik Singu
+```
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:8b5cf6,100:06b6d4&height=120&section=footer"/>
+
+</p>
