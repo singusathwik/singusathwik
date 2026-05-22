@@ -1,11 +1,11 @@
-<!-- 🔥 AI + FULL STACK ELITE README — SATHWIK SINGU -->
+<!-- 🔥 AI + CLOUD ELITE README — SATHWIK SINGU -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=240&section=header&text=SATHWIK%20SINGU&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20Creative%20Builder&descAlignY=55&descAlign=50&descColor=38bdf8"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=240&section=header&text=SATHWIK%20SINGU&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2B%20ML%20Developer%20%7C%20Cloud%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50&descColor=38bdf8"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%2B+Machine+Learning+Enthusiast;Building+Real+World+Projects;Backend+%2B+System+Design+Focused;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+%2B+ML+Developer;Cloud+%2B+Backend+Engineer;Building+Real+World+Projects;Computer+Vision+%2B+Automation;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Location-India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI_+_Full_Stack-1e293b?style=for-the-badge&logo=codeforces&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Focus-AI_+_Cloud-1e293b?style=for-the-badge&logo=icloud&logoColor=38bdf8"/>
 </p>
 
 <p align="center">
-  <em>⚡ Creating projects that combine intelligence, design, and performance</em>
+  <em>⚡ Building intelligent systems with AI, Cloud, and scalable engineering</em>
 </p>
 
 ---
@@ -28,20 +28,20 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║  DEVELOPER PROFILE — SATHWIK SINGU                          ║
 ╠══════════════════════════════════════════════════════════════╣
-║  Role     : Full Stack Developer + AI Enthusiast            ║
-║  Stack    : React · Python · Node · ML                      ║
-║  Focus    : AI Systems · Backend · Web Applications         ║
-║  Interest : Computer Vision · Automation · System Design    ║
-║  Motto    : Learn deeply. Build creatively. Improve daily.  ║
+║  Role     : AI + ML Developer & Cloud Engineer              ║
+║  Stack    : Python · React · AWS · ML                       ║
+║  Focus    : AI Systems · Cloud Architecture · APIs          ║
+║  Interest : Computer Vision · Automation · Backend          ║
+║  Motto    : Build intelligent systems that create impact.   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-- 💻 Building real-world projects using AI and Full Stack technologies
-- 🤖 Interested in Machine Learning, Computer Vision & Automation
-- 🌐 Developing responsive and scalable web applications
-- ⚙️ Strong interest in backend systems and APIs
-- 🎨 Blending creativity with software engineering
-- 🚀 Continuously learning and improving through projects
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- ☁️ Exploring AWS cloud architecture and scalable systems
+- 💻 Building intelligent real-world applications
+- ⚙️ Interested in backend engineering and API systems
+- 🧠 Working on Computer Vision and automation projects
+- 🚀 Continuously improving through practical development
 
 ---
 
@@ -52,11 +52,11 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,opencv,tensorflow,git,github,vscode&theme=dark&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,tensorflow,opencv,aws,git,github&theme=dark&perline=9"/>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,postman,firebase,flask&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=linux,postman,firebase,flask,vscode&theme=dark&perline=6"/>
 </p>
 
 <div align="center">
@@ -68,6 +68,7 @@
 | **Backend** | Node.js · Flask · Express.js · REST APIs |
 | **Database** | MongoDB · MySQL · Firebase |
 | **AI / ML** | OpenCV · TensorFlow · Machine Learning |
+| **Cloud** | AWS · Cloud Architecture · Serverless Concepts |
 | **Tools** | Git · GitHub · VS Code · Postman · Linux |
 
 </div>
@@ -93,60 +94,57 @@
 `Python` `DIP`
 
 - Compression and reconstruction of images
-- Understanding JPEG workflow and encoding
 - Practical implementation of image processing concepts
+- Understanding JPEG workflow and encoding
+
+---
+
+## 🔵 Smart Home Automation System
+> Voice-controlled dashboard using speech recognition and automation
+
+`Python` `Flask` `JavaScript` `Web Speech API`
+
+- Voice-controlled smart commands
+- Automation workflow integration
+- Interactive AI-based controls
+
+---
+
+## 🔵 Smart Grievance Management System
+> AI-powered citizen complaint platform built on AWS cloud infrastructure
+
+`AWS` `Serverless` `JavaScript`
+
+- Cloud-native serverless architecture
+- Complaint tracking and management
+- Scalable backend deployment concepts
 
 ---
 
 ## 🔵 Credit Card Risk Prediction
 > Machine learning model for predicting financial risk patterns
 
-`Python` `ML`
+`Python` `Machine Learning`
 
-- Risk prediction using ML algorithms
 - Data preprocessing and visualization
 - Predictive analytics workflow
+- Financial risk analysis system
 
 ---
 
-## 🔵 Online Indian AQI System
-> Real-time Air Quality Index tracking web application
-
-`JavaScript` `HTML` `CSS`
-
-- AQI visualization dashboard
-- Dynamic environmental data display
-- Interactive frontend design
-
----
-
-## 🔵 Anime Society Website
-> Modern responsive website for anime club activities and events
-
-`HTML` `CSS` `JavaScript`
-
-- Dark themed responsive UI
-- Event announcements and gallery
-- Interactive sections and recommendations
-
----
-
-# 🏆 ACHIEVEMENTS & CERTIFICATIONS
+# 🏆 CERTIFICATIONS
 
 ```txt
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  SKILL LICENSES & LEARNING MILESTONES
+  CERTIFICATIONS & PROFESSIONAL LEARNING
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
-| Badge | Achievement |
-|-------|-------------|
-| 🔷 | AI & Machine Learning Projects |
-| 🔷 | Full Stack Web Development |
-| 🔷 | Digital Image Processing Projects |
-| 🔷 | Backend API Development |
-| 🔷 | Database & System Design |
-| 🔷 | Responsive UI/UX Development |
+| Badge | Certification | Issuer |
+|-------|--------------|--------|
+| 🟠 | **AWS Certified Cloud Practitioner** | Amazon Web Services |
+| 🔵 | **Oracle Certified Professional: Java SE 17 Developer** | Oracle Corporation |
+| 🟣 | **Full Stack Web Development Internship** | Edunet Foundation |
 
 ---
 
@@ -172,22 +170,22 @@
 
 ---
 
-# 🧩 CURRENT INTERESTS
+# ☁️ CURRENT FOCUS
 
 ```txt
 ╔═══════════════════════════════════════════════════════════╗
-║  CURRENT ENGINEERING INTERESTS                           ║
+║  CURRENT DEVELOPMENT FOCUS                               ║
 ╠═══════════════════════════════════════════════════════════╣
-║  • Artificial Intelligence & Automation                  ║
+║  • Artificial Intelligence & Machine Learning            ║
+║  • AWS Cloud & Serverless Systems                        ║
+║  • Computer Vision Applications                          ║
 ║  • Full Stack Development                                ║
-║  • Computer Vision Systems                               ║
-║  • Backend & API Design                                  ║
-║  • Scalable Web Applications                             ║
-║  • UI/UX Focused Frontend Development                    ║
+║  • Backend APIs & System Design                          ║
+║  • Automation & Smart Systems                            ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-> “Technology becomes meaningful when it solves real problems creatively.”
+> “Intelligence becomes powerful when combined with scalable engineering.”
 
 ---
 
@@ -216,11 +214,11 @@
 ```txt
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   AI + FULL STACK DEVELOPER                                      ║
+║   AI + ML DEVELOPER • CLOUD ENGINEER                             ║
 ║                                                                  ║
-║   Building projects through creativity, logic, and curiosity     ║
+║   Building intelligent systems through code, cloud, and AI       ║
 ║                                                                  ║
-║   Learning never stops. Every project is a new level.            ║
+║   Learning, building, and improving one project at a time.       ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -230,5 +228,5 @@
 </p>
 
 <p align="center">
-  <em>✨ Crafted with passion, creativity, and continuous learning ✨</em>
+  <em>✨ Crafted with curiosity, intelligence, and continuous growth ✨</em>
 </p>
